@@ -1,9 +1,9 @@
 {
+  "semver": false,
   "parser_version": "3597575a429766dd7ecce9f5bb97f6fec4419d5d",
   "location": "apex",
   "lang": "apex",
   "generate": null,
   "generate_from_json": null,
-  "url": "https://github.com/aheber/tree-sitter-sfapex",
-  "semver": false
+  "url": "https://github.com/aheber/tree-sitter-sfapex"
 }
